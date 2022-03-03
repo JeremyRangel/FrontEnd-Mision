@@ -1,5 +1,5 @@
 # HTML
-Bienvenido, aquí llegue al primer vuelo de mi misión de FrontEnd y empezando a programar con HTML.
+Bienvenido, aquí llegue al primer vuelo de mi misión de FrontEnd, empezando a programar con HTML.
 ## Caso: Pasteleria 
 
 
