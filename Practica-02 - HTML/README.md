@@ -3,7 +3,8 @@ Bienvenido, aquí llegue al primer vuelo de mi misión de FrontEnd y empezando a
 ## Caso: Pasteleria 
 
 
-- **Practicas**
+**Practicas** 
+- [Marca de pasteleria]('')
 
 Para entrar a los contenidos solo tienes que dar click en el título :).
 
