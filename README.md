@@ -3,11 +3,7 @@
 
 
 
-
-![Fronted Image](./Imagenes/161565.gif) 
-
+<p align="center">
+  <img src="Imagenes/161565.gif" />
+</p>
 ---
-<div align="center">
-<![Fronted Image](./Imagenes/161565.gif) " >
-<p>Perfectly balanced</p>
-</div>
