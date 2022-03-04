@@ -8,7 +8,7 @@
 Para entrar a los contenidos solo tienes que dar click en el título :).
 
 <p align="center">
-  <img src="Imagenes/161565.gif" width="500" height="300" />
+  <img src="Arc/img/161565.gif" width="500" height="300" />
 </p>
 
 ---
