@@ -1,7 +1,7 @@
 # HTML
 Bienvenido, aquí llegue al segundo vuelo de mi misión de FrontEnd, empezando a programar con HTML.
 ## Caso: Pasteleria 
-
+<<<<<
 
 **Practicas** 
 - [Marca]('')
